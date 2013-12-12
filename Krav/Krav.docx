@@ -1,0 +1,51 @@
+Krav_Den glade piraten
+Referenser
+Krav
+Aktörer
+Primära Aktörer
+1.	Medlemmar
+-	Vill ha ett system där man kan se bokade möten och viktiga datum.
+-	Vill kunna byta uppgifter t.ex. ändra namn, adress m.m.
+2.	Sekreterare
+-	Vill ha ett system som håller koll på platsernas djup och storlek.
+-	Systemet ska automatiskt gå in och kollar upp kundernas båtar i det nationella båtregistret.
+3.	Kassör
+-	Vill ha ett system som håller koll på fasta/rörliga utgifter.
+-	Vill ha ett system som håller koll på samtliga medlemmar för att lätt kunna gå tillbaks i systemet och hämta ut informationen om dem vid ex. retur utav uthyrd plats.
+Stödjande Aktörer
+Nationella båtregistret
+Funktionella Krav
+Användningsfall
+1.	Medlemmar 
+1.2	Anpassad Kalender
+1.3 Omregistrering på internet
+1.4 Betala medlemsavgift på nätet
+2.	Sekreterare - Berit Beritsson
+2.1	Automatisk sökning i nationella båtregistret
+2.2  Tilldelning utav nya platser/byta platser
+2.3 Formulär för byte av båtplats
+3	Kassör - Ernst Ernstsson
+3.1	Behandling av fast/rörlig avgift
+3.2	Hålla koll på antalet medlemmar 
+3.3 Hålla koll på antalet medlemmar som inte betalat
+
+
+Icke funktionella krav
+Projektkrav
+Begränsningar
+•	Alla medlemmar kommer inte ha kunskapen för att betala via internet.
+Användbarhet
+•	Systemet skall vara i sin enklaste form med anpassning för äldre människor.
+Tillförlitlighet
+•	Iom. Att betalning kommer ske genom internet måste systemet väldigt lätt återhämta sig vi felsituationer.
+•	 T.ex. om betalning sker och något går fel skall systemet kunna avbryta pågående transaktion.
+•	Kraschar systemet helt skall systemet stängas av på ett smidigt sätt samt ge administratörerna störst prioritet.
+Tillgänglighet
+•	Sökmotoroptimerad
+Stödbarhet
+•	”Användaren skall enkelt kunna ändra storlek på texten.”
+Prestanda
+•	Mjukvaran skall hållas snabb även vid tyngre belastningar på dygnet
+Säkerhet
+•	Skall uppdateras regelbundet, samt att hårdvaran ska vara väl skyddad med lås som endast chef/ eventuell tekniker håller koll på.
+

@@ -1,0 +1,16 @@
+			1.2 Anpassad kalender
+Huvudscenario
+Primär Aktör
+Medlem
+
+Förkrav
+Inloggad som Medlem.
+Efterkrav
+Medlemmen presenteras en kalender där personen kan se eventuella möten dagar att betala avgift.
+Huvudscenario
+1.	Medlemmen klickar på knappen Kalender
+2.	Systemet presenterar en kalender 
+3.	Medlemmen väljer att se viktiga datum för hela föreningen
+4.	Systemet presenterar endast viktiga datum
+5.	Medlemmen väljer att se endast egna notiser
+6.	Systemet presenterar användarens markerade datum

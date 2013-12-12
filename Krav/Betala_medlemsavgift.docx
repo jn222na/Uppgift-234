@@ -1,0 +1,21 @@
+			1.4 Betala medlemsavgift
+Primär aktör
+Medlem
+Sekundär Aktör
+Kassör, kan gå in i systemet och se vem som betalat när.
+Offstage Aktör
+Banken
+Förkrav
+Medlemmen skall vara registrerad i systemet samt inloggad.
+Efterkrav
+Medlemsavgiften betalad och Kassören kan se detta i systemet.
+Huvudscenario
+1.	* Klickar på knappen betala medlemsavgift 
+2.	Systemet kontakar banken där transaktioner ska genomföras och presenterar för användaren nödvändig information som behövs för att transaktionen ska gå igenom.
+3.	 * Användaren matar in information
+4.	Systemet behandlar informationen, testar om informationen är korrekt t.ex. personnummer, om inte gör om punkt 3.
+5.	Skicka ett kvitto till medlemmens email eller telefon och slutför.
+Alternativa scenariers
+2.a Systemet är inte uppe för tillfället,
+1. När användaren klickar på knappen betala medlemsavgift skall systemet stoppa personen redan där med ett ”felmeddelande”.
+2. Om användaren håller på med en transaktion avbryt och presentera ”felmeddelande” för användaren.
